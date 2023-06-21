@@ -26,13 +26,10 @@ Identify which platform(s) the game should be available on
 
 1.4 Stakeholders
 
-Gameoa VP of Sales
-
-Executive Director of Planning
-
-Game Development Staff
-
-Gameoa data analytics team (my team)
+	Gameoa VP of Sales
+	Executive Director of Planning
+	Game Development Staff
+	Gameoa data analytics team (my team)
 	
 
 2: PREPARE
