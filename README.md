@@ -8,13 +8,13 @@ https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales
 Thank you and I home you enjoy my project!
 
 SCENARIO
-I am working as a junior data analyst at a small video game startup company, Gameo. They are looking to create and release a new game and want to know what type of game would have the best chance of success in the market.
+I am working as a junior data analyst at a small video game startup company, Gameoas. They are looking to create and release a new game and want to know what type of game would have the best chance of success in the market.
 
 
 1: ASK
 
 1.0 Background
-Gameo is a small yet up and coming video game company looking to expand their current portfolio of games. They are looking to target a genre that is high in popularity in order to generate more sales. Gameo’s VP of Sales is looking to compare the sales per genre over the past 20 years to see trends of popular games. 
+Gameoas is a small yet up and coming video game company looking to expand their current portfolio of games. They are looking to target a genre that is high in popularity in order to generate more sales. Gameoas’s VP of Sales is looking to compare the sales per genre over the past 20 years to see trends of popular games. 
 
 1.2 Business Task - to Identify which video game genres have been the most popular and sold the most copies between the years 2000 - 2020.
 
@@ -25,10 +25,14 @@ Over the past 20 years
 Identify which platform(s) the game should be available on
 
 1.4 Stakeholders
-Gameo VP of Sales
+
+Gameoa VP of Sales
+
 Executive Director of Planning
+
 Game Development Staff
-Gameo data analytics team (my team)
+
+Gameoa data analytics team (my team)
 	
 
 2: PREPARE
